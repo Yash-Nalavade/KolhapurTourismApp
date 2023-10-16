@@ -1,4 +1,4 @@
-# meals_app
+# Kolhapur_Tourism_App
 
 Created a Kolhapur Tourism App using
 Flutter. App gives detailed info about
