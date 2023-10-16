@@ -1,6 +1,8 @@
 # meals_app
 
-Application to show recipes of delicious international dishes:
+Created a Kolhapur Tourism App using
+Flutter. App gives detailed info about
+Kolhapur tourism places to user
 
 
 1- Displaying dishes by categories (Italian, French...).
